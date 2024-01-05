@@ -2,7 +2,7 @@ repo_name: colinfitzgerald328/cayman
 report_id: cbfa3e68ab61800a135c1466203c5a8e
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-19T22:07:51+00:00'
+timestamp: '2024-01-05T08:19:51+00:00'
 requested_by: parkr
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/colinfitzgerald328/cayman
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -26,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/colinfitzgerald328/cayman
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -35,6 +37,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/colinfitzgerald328/cayman/blob/master/.github/workflows/ci.yaml
   detection_source: ".github/workflows/ci.yaml"
   last_updated_by: Parker Moore
   last_updated_on: 2020-08-08 18:45:34.000000000 Z
@@ -60,6 +63,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/colinfitzgerald328/cayman/blob/master/jekyll-theme-cayman.gemspec
   detection_source: jekyll-theme-cayman.gemspec
   last_updated_by: Ben Balter
   last_updated_on: 2016-09-20 22:03:06.000000000 Z
@@ -72,6 +76,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/colinfitzgerald328/cayman/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Ben Balter
   last_updated_on: 2016-12-13 15:27:22.000000000 Z
@@ -84,6 +89,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/colinfitzgerald328/cayman
   detection_source: Repo Metadata
 - name: html-proofer
   description: Test your rendered HTML files to make sure they're accurate
